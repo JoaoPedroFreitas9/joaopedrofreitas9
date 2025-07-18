@@ -95,11 +95,12 @@ Meu nome é João Pedro Freitas, tenho 22 anos e sou natural de Arinos, Minas Ge
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaopedrofreitas9&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=joaopedrofreitas9&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
+</p>
 
 <img 
       align="left" 
