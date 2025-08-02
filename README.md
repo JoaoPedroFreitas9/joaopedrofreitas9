@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Meu nome é João Pedro Freitas, tenho 22 anos e sou natural de Arinos, Minas Gerais. Atualmente, curso Bacharelado em Sistemas de Informação, com o objetivo de me especializar na área de desenvolvimento front-end. Tenho grande interesse por interfaces intuitivas e experiências de usuário bem planejadas, buscando sempre criar soluções modernas, acessíveis e visualmente agradáveis. Meu compromisso é unir conhecimento técnico e criatividade para desenvolver aplicações web de qualidade.
+Desenvolvedor Front-end focado na criação de interfaces eficientes e escaláveis com React, Next.js e TypeScript. Busco aplicar meu conhecimento em projetos desafiadores para construir soluções robustas, com foco em código limpo e na melhoria da experiência do usuário.
 
 
 ---
