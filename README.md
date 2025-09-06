@@ -98,6 +98,7 @@ Desenvolvedor Front-end focado na criação de interfaces eficientes e escaláve
 <br/>
 <br/>
 
+
 ### 📊 Estatísticas
 
 <p>
@@ -106,7 +107,7 @@ Desenvolvedor Front-end focado na criação de interfaces eficientes e escaláve
     alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaopedrofreitas9&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=joaopedrofreitas9&show_icons=true&theme=highcontrast&locale=pt-br" 
   />
 </p>
 
@@ -114,7 +115,7 @@ Desenvolvedor Front-end focado na criação de interfaces eficientes e escaláve
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofreitas9&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrofreitas9&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
