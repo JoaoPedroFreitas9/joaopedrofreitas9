@@ -77,8 +77,8 @@
 
 ## 📬 Contato
 
-- 📧 [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
+- 📧 [seu-email@exemplo.com](mailto:joaoepedrofreitas0901@gmailcom)
+- 💼 [LinkedIn](www.linkedin.com/in/joão-pedro-freitas9)
 
 ---
 
