@@ -1,26 +1,87 @@
-# João Pedro Freitas
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Jo%C3%A3o%20Pedro&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=68"/>
+</p>
 
-Front-End Developer | React • Next.js • TypeScript
+<h3 align="center">Construo sistemas web do front-end ao back-end 🚀</h3>
 
-Desenvolvedor Front-End focado na criação de interfaces web **minimalistas, funcionais e de alta performance**. Tenho experiência na construção de aplicações modernas e escaláveis, priorizando a componentização inteligente, código limpo e uma excelente experiência do usuário.
+<p align="center">
+  Aberto a oportunidades como desenvolvedor e a projetos freelance.
+</p>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Sobre Mim
 
-<div align="left">
-  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="NextJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="SASS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+- 📍 Arinos, Minas Gerais — Brasil
+- 🎓 Sistemas de Informação no IFNMG (formatura em 2027)
+- 💼 6 meses de experiência como desenvolvedor front-end em um sistema para a área da saúde
+- 🔄 Ampliando minha atuação para o back-end, com foco em APIs e arquitetura
+- 🤝 Disponível para vaga na área e para projetos freelance
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,postgres,git,github,vscode,vercel&theme=dark"/>
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🏥 **[ClinicPlus](https://github.com/JoaoPedroFreitas9/ClinicPlus):** plataforma web de gestão de clínicas, com integração de pagamentos via Stripe
+- 🌾 **[Terra Mobile](https://github.com/JoaoPedroFreitas9/Terra-Mobile):** aplicativo de gestão agrícola
+- 💰 **NeoSync:** sistema de gestão financeira pessoal com front-end e back-end desacoplados
+- 🌐 **[My-Portfolio](https://github.com/JoaoPedroFreitas9/My-Portfolio):** meu portfólio profissional
+
+---
+
+## 👾 Contribuições (Pac-Man)
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JoaoPedroFreitas9/JoaoPedroFreitas9/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JoaoPedroFreitas9/JoaoPedroFreitas9/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/JoaoPedroFreitas9/JoaoPedroFreitas9/output/pacman-contribution-graph.svg"
+      alt="Gráfico de contribuições Pac-Man"
+    />
+  </picture>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=JoaoPedroFreitas9&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroFreitas9&layout=compact&theme=dark&hide_border=true"
+    alt="Linguagens mais usadas"
+  />
 </div>
 
-<br/>
-<br/>
+---
+
+## 📬 Contato
+
+- 📧 [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer"/>
+</p>
